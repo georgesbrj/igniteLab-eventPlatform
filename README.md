@@ -1,5 +1,6 @@
 # Projeto feito no evento igniteLab Rocketseat 
-#techs Reactjs, apollo,graphql
+#techs desse projeto 
+#NestJS ,GraphQL ,Apache Kafka  ,Apollo Client (GraphQL)
  
 
 
